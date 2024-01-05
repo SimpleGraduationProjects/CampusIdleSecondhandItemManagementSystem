@@ -1,0 +1,2 @@
+# CampusIdleSecondhandItemManagementSystem
+校园闲置二手物品管理系统-毕业设计
